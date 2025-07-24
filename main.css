@@ -24,6 +24,7 @@ a {
 .btn {
   color: white;
   background-image: url("/images/e680a663f06a93ab07eecf47822e521dc4b9cb7f.jpg");
+  background-repeat: no-repeat;
   border: 1px solid white;
   border-radius: 2px;
   width: 120px;
